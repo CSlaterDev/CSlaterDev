@@ -1,4 +1,4 @@
-### Hi, I'm Connor! Welcome to my portfolio.
+Hi, I'm Connor! Welcome to my portfolio.
 
 <!--
 **CSlaterDev/CSlaterDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
