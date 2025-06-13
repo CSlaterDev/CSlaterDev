@@ -3,6 +3,7 @@ Hi, I'm Connor! Welcome to my portfolio.
 I have several ongoing projects right now, some games (mostly made in Unreal Engine) and some mods (mainly for the game Skyrim). Please take a look at some of the recent things I've been working on below.
 
 I'm currently working on a crafting-focused RPG similar to Stardew Valley. While progress is ongoing, so far I've implemented several complex features that I am happy with.
+Download links for the latest version of my work are available upon request.
 
  <img width="1920" alt="game1" src="https://github.com/user-attachments/assets/ea70047b-7a37-4b69-aec6-7fbef5b661c6" />
 
